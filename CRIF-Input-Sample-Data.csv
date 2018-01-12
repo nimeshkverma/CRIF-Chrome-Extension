@@ -1,0 +1,4 @@
+creditAmount,firstName,lastName,dobDay,dobMonth,dobYear,fatherName,pan,telephoneNumber1,addr1Line1,villageLocality1,addr1Pin
+10000,Nimesh,Verma,11,8,1989,P. R. Verma,AAAAA1234A,9999111199,Near Hiranandani,Powai,400072
+20000,Dhiraj,Tripathi,30,12,1994,Arun Tripathi,BBBBB12345B,8888222288,Near Station,Bhayander,401105
+30000,Bhavya,Karia,15,2,1996,Nenshi,CCCCC12345B,7777333377,Near Police Station,Borivalli,400091
